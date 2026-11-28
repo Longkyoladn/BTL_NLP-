@@ -1,6 +1,6 @@
 # BTL_NLP-
 
-Đề tài: Tóm tắt báo cáo tài chính tiếng Việt bằng pipeline hai giai đoạn BiLSTM-Attention kết hợp ViT5/BARTpho và kiểm chứng tính trung thực số liệu.
+Đề tài: Tóm tắt báo cáo tài chính tiếng Việt bằng pipeline hai giai đoạn BiLSTM-Attention kết hợp BARTpho và kiểm chứng tính trung thực số liệu.
 
 ## Tài liệu
 
